@@ -74,7 +74,8 @@ header h1 {
 }
 
 div input,
-#busca-equipes {
+#busca-equipes,
+#busca-pistas {
   padding: 0.375rem 0.75rem; /* Espaçamento interno */
   border-radius: 1rem; /* Arredonda as bordas */
   border: 1px solid var(--f1-dark-gray); /* Define a borda */
@@ -88,21 +89,24 @@ div input,
 }
 
 div input::placeholder,
-#busca-equipes::placeholder {
+#busca-equipes::placeholder,
+#busca-pistas::placeholder {
   font-size: 1.2rem; /* Tamanho da fonte do placeholder */
   font-weight: 300; /* Peso da fonte do placeholder */
   color: var(--f1-dark-gray); /* Cor do texto do placeholder */
 }
 
 div input:focus,
-#busca-equipes:focus {
+#busca-equipes:focus,
+#busca-pistas:focus {
   outline: none; /* Remove a borda de foco padrão */
   border-color: var(--f1-red); /* Muda a cor da borda ao focar */
   box-shadow: 0 0 0 0.1rem var(--f1-red); /* Adiciona uma sombra de caixa para indicar foco */
 }
 
 #botao-busca,
-#botao-busca-equipes {
+#botao-busca-equipes,
+#botao-busca-pistas {
   padding: 1rem 2rem; /* Espaçamento interno */
   border-radius: 1rem; /* Arredonda as bordas */
   border: none; /* Remove a borda padrão */
@@ -118,14 +122,16 @@ div input:focus,
 }
 
 #botao-busca:hover,
-#botao-busca-equipes:hover {
+#botao-busca-equipes:hover,
+#botao-busca-pistas:hover {
   background-color: var(--f1-white); /* Muda a cor de fundo ao passar o mouse */
   color: var(--f1-red); /* Muda a cor do texto ao passar o mouse */
   box-shadow: 0 0 0 0.1rem var(--f1-white); /* Adiciona uma sombra de caixa */
 }
 
 #botao-busca:active,
-#botao-busca-equipes:active {
+#botao-busca-equipes:active,
+#botao-busca-pistas:active {
   transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
 }
 
@@ -135,6 +141,17 @@ main {
   margin: 0 auto; /* Centraliza o conteúdo principal */
   padding: 2rem 1rem; /* Adiciona espaçamento interno */
   flex-grow: 1; /* Faz o main ocupar o espaço vertical disponível */
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Estilo específico para a grade de pistas */
+#pistas-container.grid-container {
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
 }
 
 article {
@@ -558,7 +575,8 @@ article p strong {
 /* --- ESTILOS DA PÁGINA DE EQUIPES --- */
 .team-grid-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  /* Usando auto-fill para manter o tamanho dos cards consistente */
+  grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
   gap: 6rem 2.5rem; /* Aumenta o espaço vertical (primeiro valor) */
   padding: 6rem 1rem 2rem; /* Adiciona mais preenchimento no topo */
   max-width: 1400px;
@@ -705,3 +723,73 @@ a.team-card {
 }
 
 /* --- FIM DOS ESTILOS DA PÁGINA DE EQUIPES --- */
+
+/* --- ESTILOS DA PÁGINA DE PISTAS --- */
+.pista-card {
+  position: relative;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: var(--f1-dark-gray);
+  overflow: hidden; /* Garante que a imagem não vaze para fora das bordas arredondadas */
+}
+
+.pista-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.pista-card a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.pista-card-image {
+  width: 100%;
+  height: 300px; /* Aumenta a altura do card */
+  object-fit: contain; /* Garante que a imagem inteira apareça */
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.pista-card:hover .pista-card-image {
+  transform: scale(0.9); /* Zoom mais sutil na imagem */
+}
+
+.pista-card-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.95) 30%,
+    rgba(0, 0, 0, 0.6) 60%,
+    transparent
+  );
+  padding: 2rem 1rem 1rem;
+  color: var(--f1-white);
+}
+
+.pista-card-content h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--f1-white);
+  border-bottom: 2px solid var(--f1-red);
+  padding-bottom: 0.25rem;
+  display: inline-block;
+}
+
+.pista-card-content p {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+  color: var(--f1-light-gray);
+}
+
+.pista-card-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}

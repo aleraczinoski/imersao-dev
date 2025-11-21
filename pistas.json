@@ -1,0 +1,194 @@
+[
+  {
+    "nome": "Grande Prêmio da Austrália",
+    "data": "14-16 de Março",
+    "local": "Melbourne, Austrália",
+    "circuito": "Circuito de Albert Park",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/australia"
+  },
+  {
+    "nome": "Grande Prêmio da China",
+    "data": "21-23 de Março",
+    "local": "Xangai, China",
+    "circuito": "Circuito Internacional de Xangai",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/China_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/china"
+  },
+  {
+    "nome": "Grande Prêmio do Japão",
+    "data": "04-06 de Abril",
+    "local": "Suzuka, Japão",
+    "circuito": "Circuito Internacional de Suzuka",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249932/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/japan"
+  },
+  {
+    "nome": "Grande Prêmio do Bahrein",
+    "data": "11-13 de Abril",
+    "local": "Sakhir, Bahrein",
+    "circuito": "Circuito Internacional do Bahrein",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/bahrain"
+  },
+  {
+    "nome": "Grande Prêmio da Arábia Saudita",
+    "data": "18-20 de Abril",
+    "local": "Jeddah, Arábia Saudita",
+    "circuito": "Circuito da Corniche de Jeddah",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249933/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/saudi-arabia"
+  },
+  {
+    "nome": "Grande Prêmio de Miami",
+    "data": "02-04 de Maio",
+    "local": "Miami, EUA",
+    "circuito": "Autódromo Internacional de Miami",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249932/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/miami"
+  },
+  {
+    "nome": "Grande Prêmio da Emilia-Romanha",
+    "data": "16-18 de Maio",
+    "local": "Imola, Itália",
+    "circuito": "Autódromo Enzo e Dino Ferrari",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249931/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/emiliaromagna"
+  },
+  {
+    "nome": "Grande Prêmio de Mônaco",
+    "data": "23-25 de Maio",
+    "local": "Monte Carlo, Mônaco",
+    "circuito": "Circuito de Mônaco",
+    "imagem": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monaco_Circuit.webp.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/monaco"
+  },
+  {
+    "nome": "Grande Prêmio da Espanha",
+    "data": "30 de Maio - 01 de Junho",
+    "local": "Barcelona, Espanha",
+    "circuito": "Circuito de Barcelona-Catalunha",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249933/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/spain"
+  },
+  {
+    "nome": "Grande Prêmio do Canadá",
+    "data": "13-15 de Junho",
+    "local": "Montreal, Canadá",
+    "circuito": "Circuito Gilles-Villeneuve",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/canada"
+  },
+  {
+    "nome": "Grande Prêmio da Áustria",
+    "data": "27-29 de Junho",
+    "local": "Spielberg, Áustria",
+    "circuito": "Red Bull Ring",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/austria"
+  },
+  {
+    "nome": "Grande Prêmio da Grã-Bretanha",
+    "data": "04-06 de Julho",
+    "local": "Silverstone, Reino Unido",
+    "circuito": "Circuito de Silverstone",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249931/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/great-britain"
+  },
+  {
+    "nome": "Grande Prêmio da Bélgica",
+    "data": "25-27 de Julho",
+    "local": "Spa-Francorchamps, Bélgica",
+    "circuito": "Circuito de Spa-Francorchamps",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/belgium"
+  },
+  {
+    "nome": "Grande Prêmio da Hungria",
+    "data": "01-03 de Agosto",
+    "local": "Budapeste, Hungria",
+    "circuito": "Hungaroring",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249931/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/hungary"
+  },
+  {
+    "nome": "Grande Prêmio da Holanda",
+    "data": "29-31 de Agosto",
+    "local": "Zandvoort, Holanda",
+    "circuito": "Circuito de Zandvoort",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249932/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/netherlands"
+  },
+  {
+    "nome": "Grande Prêmio da Itália",
+    "data": "05-07 de Setembro",
+    "local": "Monza, Itália",
+    "circuito": "Autódromo Nacional de Monza",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249932/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/italy"
+  },
+  {
+    "nome": "Grande Prêmio do Azerbaijão",
+    "data": "19-21 de Setembro",
+    "local": "Baku, Azerbaijão",
+    "circuito": "Circuito da Cidade de Baku",
+    "imagem": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.webp.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/azerbaijan"
+  },
+  {
+    "nome": "Grande Prêmio de Singapura",
+    "data": "03-05 de Outubro",
+    "local": "Marina Bay, Singapura",
+    "circuito": "Circuito de Rua de Marina Bay",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249933/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/singapore"
+  },
+  {
+    "nome": "Grande Prêmio dos EUA",
+    "data": "17-19 de Outubro",
+    "local": "Austin, EUA",
+    "circuito": "Circuito das Américas",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249933/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/united-states"
+  },
+  {
+    "nome": "Grande Prêmio do México",
+    "data": "24-26 de Outubro",
+    "local": "Cidade do México, México",
+    "circuito": "Autódromo Hermanos Rodríguez",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249932/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/mexico"
+  },
+  {
+    "nome": "Grande Prêmio de São Paulo",
+    "data": "07-09 de Novembro",
+    "local": "São Paulo, Brasil",
+    "circuito": "Autódromo de Interlagos",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/brazil"
+  },
+  {
+    "nome": "Grande Prêmio de Las Vegas",
+    "data": "20-22 de Novembro",
+    "local": "Las Vegas, EUA",
+    "circuito": "Circuito de Rua de Las Vegas",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249932/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/las-vegas"
+  },
+  {
+    "nome": "Grande Prêmio do Catar",
+    "data": "28-30 de Novembro",
+    "local": "Lusail, Catar",
+    "circuito": "Circuito Internacional de Lusail",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249933/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/qatar"
+  },
+  {
+    "nome": "Grande Prêmio de Abu Dhabi",
+    "data": "05-07 de Dezembro",
+    "local": "Yas Marina, Abu Dhabi",
+    "circuito": "Circuito de Yas Marina",
+    "imagem": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677249930/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.png.transform/7col/image.png",
+    "link": "https://www.formula1.com/en/racing/2025/united-arab-emirates"
+  }
+]
