@@ -1,0 +1,191 @@
+[
+  {
+    "nome": "Lewis Hamilton",
+    "equipe": "Scuderia Ferrari",
+    "descricao": "Um dos maiores pilotos da história, ele busca um novo e monumental desafio em sua carreira. Após uma era de domínio, sua transferência para a Ferrari representa a ambição de conquistar vitórias e um possível oitavo título com a equipe mais icônica do grid, em um capítulo que promete ser histórico.",
+    "titulos": [
+      "Campeão Mundial de F1 (7x)",
+      "Campeão da GP2 Series (2006)",
+      "Campeão da F3 Euro Series (2005)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/lewis-hamilton",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/ferrari/lewham01/2025ferrarilewham01right.webp"
+  },
+  {
+    "nome": "Charles Leclerc",
+    "equipe": "Scuderia Ferrari",
+    "descricao": "O talentoso piloto monegasco é visto como o coração e o futuro da Ferrari, com quem possui um contrato de longo prazo. Conhecido por sua velocidade estonteante em qualificação e sua paixão contagiante, ele tem a missão pessoal de liderar a equipe de Maranello de volta ao topo.",
+    "titulos": ["Campeão da Fórmula 2 (2017)", "Campeão da GP3 Series (2016)"],
+    "link": "https://www.formula1.com/en/drivers/charles-leclerc",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/ferrari/chalec01/2025ferrarichalec01right.webp"
+  },
+  {
+    "nome": "Max Verstappen",
+    "equipe": "Oracle Red Bull Racing",
+    "descricao": "A força dominante da F1 moderna, ele continua sua jornada de sucesso com a Red Bull Racing. Conhecido por seu estilo de pilotagem implacável e velocidade avassaladora, ele estabeleceu um novo padrão de performance. Sua determinação o torna a referência máxima e o piloto a ser batido no grid atual.",
+    "titulos": ["Campeão Mundial de F1 (3x)"],
+    "link": "https://www.formula1.com/en/drivers/max-verstappen",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/redbullracing/maxver01/2025redbullracingmaxver01right.webp"
+  },
+  {
+    "nome": "Yuki Tsunoda",
+    "equipe": "Oracle Red Bull Racing",
+    "descricao": "Após demonstrar grande evolução e maturidade, o piloto japonês recebe a cobiçada promoção para a equipe principal da Red Bull. Conhecido por sua velocidade pura e personalidade forte, ele agora tem a chance de ouro para competir por pódios e vitórias, transformando seu potencial em resultados de ponta.",
+    "titulos": ["Campeão da F4 Japonesa (2018)"],
+    "link": "https://www.formula1.com/en/drivers/yuki-tsunoda",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/redbullracing/yuktsu01/2025redbullracingyuktsu01right.webp"
+  },
+  {
+    "nome": "Lando Norris",
+    "equipe": "McLaren F1 Team",
+    "descricao": "Um dos pilotos mais populares do grid, ele é a peça central da McLaren em sua ascensão de volta ao topo. Com sua primeira vitória na F1 já conquistada, ele solidificou seu status de piloto de elite. Agora, com um contrato de longo prazo, sua missão é transformar a equipe em uma candidata real ao título.",
+    "titulos": [
+      "Campeão da F3 Europeia (2017)",
+      "Campeão da Toyota Racing Series (2016)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/lando-norris",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/mclaren/lannor01/2025mclarenlannor01right.webp"
+  },
+  {
+    "nome": "Oscar Piastri",
+    "equipe": "McLaren F1 Team",
+    "descricao": "O piloto australiano teve uma das temporadas de estreia mais impressionantes da história recente. Com uma calma e velocidade notáveis, ele já demonstrou ser capaz de competir no mais alto nível. Em seu segundo ano na McLaren, ele busca refinar seu talento bruto para lutar por vitórias.",
+    "titulos": [
+      "Campeão da Fórmula 2 (2021)",
+      "Campeão da Fórmula 3 (2020)",
+      "Campeão da Fórmula Renault Eurocup (2019)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/oscar-piastri",
+    "imagem": "https://media.formula1.com/image/upload/c_fill,w_720/q_auto/v1740000000/common/f1/2025/mclaren/oscpia01/2025mclarenoscpia01right.webp"
+  },
+  {
+    "nome": "George Russell",
+    "equipe": "Mercedes-AMG Petronas F1 Team",
+    "descricao": "Com a reestruturação da equipe, ele assume naturalmente o papel de piloto principal na Mercedes. Após anos de aprendizado e performances consistentes, ele agora tem a responsabilidade de liderar a equipe em uma nova era. Seu objetivo é claro: usar sua experiência para guiar a Mercedes de volta ao caminho das vitórias.",
+    "titulos": ["Campeão da Fórmula 2 (2018)", "Campeão da GP3 Series (2017)"],
+    "link": "https://www.formula1.com/en/drivers/george-russell",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/mercedes/georus01/2025mercedesgeorus01right.webp"
+  },
+  {
+    "nome": "Andrea Kimi Antonelli",
+    "equipe": "Mercedes-AMG Petronas F1 Team",
+    "descricao": "Apontado como um talento geracional, o jovem italiano faz uma estreia meteórica na F1, pulando etapas para assumir um assento na Mercedes. Cercado de grandes expectativas, sua promoção direta reflete a enorme confiança da equipe em seu potencial. Todos os olhos do automobilismo estarão voltados para sua performance.",
+    "titulos": [
+      "Campeão da FRECA (2023)",
+      "Campeão da F4 Italiana (2022)",
+      "Campeão da F4 ADAC (2022)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/andrea-kimi-antonelli",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/mercedes/andant01/2025mercedesandant01right.webp"
+  },
+  {
+    "nome": "Carlos Sainz",
+    "equipe": "Williams Racing",
+    "descricao": "Um dos pilotos mais completos do grid, ele leva seu talento e experiência para a Williams. Conhecido por sua inteligência, consistência e capacidade de adaptação, ele assume o desafio de liderar o projeto de reconstrução da icônica equipe britânica. Sua chegada representa um grande impulso para as ambições do time.",
+    "titulos": ["Campeão da Fórmula Renault 3.5 (2014)"],
+    "link": "https://www.formula1.com/en/drivers/carlos-sainz",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/williams/carsai01/2025williamscarsai01right.webp"
+  },
+  {
+    "nome": "Alexander Albon",
+    "equipe": "Williams Racing",
+    "descricao": "Após reviver sua carreira na F1, ele se consolidou como o líder da Williams, extraindo performances impressionantes do carro. Com um contrato de longo prazo, ele é peça fundamental no projeto de crescimento da equipe. Sua velocidade e feedback técnico são cruciais para continuar elevando o nível do time no grid.",
+    "titulos": [],
+    "link": "https://www.formula1.com/en/drivers/alexander-albon",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/williams/alealb01/2025williamsalealb01right.webp"
+  },
+  {
+    "nome": "Gabriel Bortoleto",
+    "equipe": "Stake F1 Team Kick Sauber",
+    "descricao": "A mais nova esperança do Brasil na F1, ele estreia na categoria em um momento crucial para a Sauber. Com a equipe se preparando para a transição para o projeto de fábrica da Audi, ele representa uma peça chave e uma grande aposta para o futuro da montadora alemã no esporte.",
+    "titulos": ["Campeão da Fórmula 3 (2023)", "Campeão da Fórmula 2 (2024)"],
+    "link": "https://www.formula1.com/en/drivers/gabriel-bortoleto",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/kicksauber/gabbor01/2025kicksaubergabbor01right.webp"
+  },
+  {
+    "nome": "Nico Hülkenberg",
+    "equipe": "Stake F1 Team Kick Sauber",
+    "descricao": "O experiente piloto alemão foi o primeiro contratado para o projeto da Audi na F1. Com vasta experiência, ele terá o papel crucial de liderar o desenvolvimento do carro durante a fase de transição da Sauber. Sua consistência e conhecimento técnico serão fundamentais.",
+    "titulos": [
+      "Vencedor das 24 Horas de Le Mans (2015)",
+      "Campeão da GP2 Series (2009)",
+      "Campeão da F3 Euro Series (2008)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/nico-hulkenberg",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/kicksauber/nichul01/2025kicksaubernichul01right.webp"
+  },
+  {
+    "nome": "Esteban Ocon",
+    "equipe": "Haas F1 Team",
+    "descricao": "O piloto francês busca um novo começo na Haas após uma passagem vitoriosa por outras equipes. Ele assume um claro papel de liderança na equipe americana, com a missão de usar sua experiência para maximizar o potencial do carro e ajudar o time a somar pontos de forma consistente.",
+    "titulos": [
+      "Campeão da GP3 Series (2015)",
+      "Campeão da F3 Europeia (2014)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/esteban-ocon",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/haasf1team/estoco01/2025haasf1teamestoco01right.webp"
+  },
+  {
+    "nome": "Oliver Bearman",
+    "equipe": "Haas F1 Team",
+    "descricao": "O jovem britânico garantiu sua vaga como titular após uma estreia sensacional na F1. Membro da Academia da Ferrari, ele é uma das grandes apostas para o futuro do esporte. A Haas será o ambiente ideal para ele se desenvolver e mostrar todo o seu talento de forma consistente.",
+    "titulos": ["Campeão da F4 Italiana (2021)", "Campeão da F4 ADAC (2021)"],
+    "link": "https://www.formula1.com/en/drivers/oliver-bearman",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/haasf1team/olibea01/2025haasf1teamolibea01right.webp"
+  },
+  {
+    "nome": "Pierre Gasly",
+    "equipe": "BWT Alpine F1 Team",
+    "descricao": "Ele continua na Alpine como o pilar de experiência da equipe. Em um período de grande reestruturação interna, sua velocidade e capacidade de liderança serão vitais para o time. O piloto francês tem a tarefa de guiar a equipe de volta à competitividade no disputado pelotão intermediário.",
+    "titulos": ["Campeão da GP2 Series (2016)"],
+    "link": "https://www.formula1.com/en/drivers/pierre-gasly",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/alpine/piegas01/2025alpinepiegas01right.webp"
+  },
+  {
+    "nome": "Franco Colapinto",
+    "equipe": "BWT Alpine F1 Team",
+    "descricao": "Após uma estreia impressionante na F1 no final da temporada de 2024, o piloto argentino garantiu uma vaga como titular na Alpine. Conhecido por seu carisma e grande apoio popular, ele chega à equipe francesa com muita expectativa. Sua missão é se adaptar rapidamente e mostrar seu potencial no grid.",
+    "titulos": ["Campeão da F4 Espanhola (2019)"],
+    "link": "https://www.formula1.com/en/drivers/franco-colapinto",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/alpine/fracol01/2025alpinefracol01right.webp"
+  },
+  {
+    "nome": "Isack Hadjar",
+    "equipe": "Visa Cash App Racing Bulls",
+    "descricao": "Membro do Red Bull Junior Team, o jovem piloto faz sua estreia na F1 com a Racing Bulls. Conhecido por seu estilo de pilotagem arrojado e por uma forte campanha na F2, ele é mais uma aposta da Red Bull em jovens talentos. Sua tarefa será aprender rapidamente e demonstrar que tem o necessário para brilhar.",
+    "titulos": [],
+    "link": "https://www.formula1.com/en/drivers/isack-hadjar",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/racingbulls/isahad01/2025racingbullsisahad01right.webp"
+  },
+  {
+    "nome": "Liam Lawson",
+    "equipe": "Visa Cash App Racing Bulls",
+    "descricao": "Após impressionar a todos com suas atuações como substituto, o neozelandês finalmente ganha sua merecida vaga como titular. Ele retorna à equipe de Faenza com a missão de transformar seu potencial em resultados consistentes. Esta é sua grande chance de provar que merece um lugar permanente no mundo da F1.",
+    "titulos": ["Campeão da Toyota Racing Series (2019)"],
+    "link": "https://www.formula1.com/en/drivers/liam-lawson",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/racingbulls/lialaw01/2025racingbullslialaw01right.webp"
+  },
+  {
+    "nome": "Fernando Alonso",
+    "equipe": "Aston Martin Aramco F1 Team",
+    "descricao": "Uma lenda viva do esporte, ele demonstra uma longevidade e paixão impressionantes pela competição. Ele continua sendo a força motriz por trás do ambicioso projeto da Aston Martin, buscando pódios e vitórias. Sua vasta experiência e determinação incansável são cruciais para levar a equipe a um novo patamar.",
+    "titulos": [
+      "Campeão Mundial de F1 (2x)",
+      "Campeão Mundial de Endurance da FIA (2019)",
+      "Vencedor das 24 Horas de Le Mans (2x)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/fernando-alonso",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/astonmartin/feralo01/2025astonmartinferalo01right.webp"
+  },
+  {
+    "nome": "Lance Stroll",
+    "equipe": "Aston Martin Aramco F1 Team",
+    "descricao": "Com vários pódios e uma pole position em sua carreira na F1, o piloto canadense segue no ambicioso projeto da Aston Martin. Ele busca encontrar maior consistência em suas performances para somar pontos cruciais para a equipe no campeonato. Seu objetivo é ajudar o time a se estabelecer entre os ponteiros do grid.",
+    "titulos": [
+      "Campeão da F3 Europeia (2016)",
+      "Campeão da F4 Italiana (2014)"
+    ],
+    "link": "https://www.formula1.com/en/drivers/lance-stroll",
+    "imagem": "https://media.formula1.com/image/upload/c_lfill,w_440/q_auto/d_common:f1:2025:fallback:driver:2025fallbackdriverright.webp/v1740000000/common/f1/2025/astonmartin/lanstr01/2025astonmartinlanstr01right.webp"
+  }
+]

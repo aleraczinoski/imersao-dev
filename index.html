@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-br" style="height: 100%">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grid F1 2025</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      /* Animações de entrada */
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      @keyframes slideUp {
+        from {
+          transform: translateY(20px);
+          opacity: 0;
+        }
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+
+      .home-main {
+        flex-grow: 1; /* Faz o main ocupar o espaço disponível */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 2rem;
+        background: transparent; /* Remove o fundo para mostrar a imagem do body */
+      }
+
+      .home-main h2 {
+        font-size: 3.5rem;
+        color: var(--f1-white);
+        margin-bottom: 1rem;
+        font-weight: 700;
+        text-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        animation: slideUp 0.8s ease-out forwards;
+      }
+
+      .home-main p {
+        font-size: 1.3rem;
+        color: var(--f1-light-gray);
+        max-width: 600px;
+        margin-bottom: 2rem;
+        line-height: 1.6;
+        text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+        animation: slideUp 0.8s ease-out 0.2s forwards;
+        opacity: 0; /* Começa invisível para a animação */
+      }
+
+      .home-buttons {
+        display: flex;
+        gap: 1.5rem;
+        animation: slideUp 0.8s ease-out 0.4s forwards;
+        opacity: 0; /* Começa invisível para a animação */
+      }
+
+      .home-buttons a {
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        text-decoration: none; /* Remove o sublinhado dos links */
+      }
+
+      .home-buttons a:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(225, 6, 0, 0.4);
+      }
+
+      @media (max-width: 768px) {
+        .home-main h2 {
+          font-size: 2.5rem;
+        }
+        .home-main p {
+          font-size: 1.1rem;
+        }
+        .home-buttons {
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+  <body
+    style="
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      background-image: linear-gradient(
+          to bottom,
+          rgba(21, 21, 30, 0.5),
+          /* Aumenta sutilmente a opacidade */ rgba(21, 21, 30, 1)
+        ),
+        url('https://wallpaperaccess.com/full/1633387.jpg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+    "
+  >
+    <header>
+      <h1>Grid F1 2025</h1>
+    </header>
+
+    <main class="home-main">
+      <h2>Explore o Grid da Fórmula 1 para a Temporada de 2025</h2>
+      <p>
+        Navegue pela lista completa de pilotos e equipes confirmados para a
+        temporada de 2025. Clique no botão abaixo para começar.
+      </p>
+      <div class="home-buttons">
+        <a href="pilotos.html" id="botao-busca">Ver Pilotos</a>
+        <a href="equipes.html" id="botao-busca">Ver Equipes</a>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p class="footer-location">Brasil</p>
+      <ul class="footer-links">
+        <li>
+          <a href="https://github.com/aleraczinoski" target="_blank"
+            >Meu GitHub</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/in/alexandreraczinoski/"
+            target="_blank"
+            >Meu Linkedin</a
+          >
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>
