@@ -75,13 +75,15 @@ header h1 {
 
 div input,
 #busca-equipes,
-#busca-pistas {
+#busca-pistas,
+#busca-glossario {
   padding: 0.375rem 0.75rem; /* Espaçamento interno */
   border-radius: 1rem; /* Arredonda as bordas */
   border: 1px solid var(--f1-dark-gray); /* Define a borda */
   background: var(--f1-black); /* Cor de fundo */
   font-family: inherit; /* Herda a família da fonte do elemento pai */
-  font-size: 1.5rem; /* Tamanho da fonte */
+  /* font-size: 1.5rem; */ /* Tamanho da fonte */
+  font-size: 1.2rem;
   transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
   width: 15rem; /* Largura do input */
   color: var(--f1-light-gray); /* Cor do texto digitado */
@@ -90,7 +92,8 @@ div input,
 
 div input::placeholder,
 #busca-equipes::placeholder,
-#busca-pistas::placeholder {
+#busca-pistas::placeholder,
+#busca-glossario::placeholder {
   font-size: 1.2rem; /* Tamanho da fonte do placeholder */
   font-weight: 300; /* Peso da fonte do placeholder */
   color: var(--f1-dark-gray); /* Cor do texto do placeholder */
@@ -98,7 +101,8 @@ div input::placeholder,
 
 div input:focus,
 #busca-equipes:focus,
-#busca-pistas:focus {
+#busca-pistas:focus,
+#busca-glossario:focus {
   outline: none; /* Remove a borda de foco padrão */
   border-color: var(--f1-red); /* Muda a cor da borda ao focar */
   box-shadow: 0 0 0 0.1rem var(--f1-red); /* Adiciona uma sombra de caixa para indicar foco */
@@ -106,7 +110,8 @@ div input:focus,
 
 #botao-busca,
 #botao-busca-equipes,
-#botao-busca-pistas {
+#botao-busca-pistas,
+#botao-busca-glossario {
   padding: 1rem 2rem; /* Espaçamento interno */
   border-radius: 1rem; /* Arredonda as bordas */
   border: none; /* Remove a borda padrão */
@@ -119,11 +124,13 @@ div input:focus,
   background-color: var(--f1-red); /* Cor de fundo */
   color: var(--f1-white); /* Cor do texto */
   border: 1px solid var(--f1-red); /* Adiciona uma borda */
+  text-decoration: none;
 }
 
 #botao-busca:hover,
 #botao-busca-equipes:hover,
-#botao-busca-pistas:hover {
+#botao-busca-pistas:hover,
+#botao-busca-glossario:hover {
   background-color: var(--f1-white); /* Muda a cor de fundo ao passar o mouse */
   color: var(--f1-red); /* Muda a cor do texto ao passar o mouse */
   box-shadow: 0 0 0 0.1rem var(--f1-white); /* Adiciona uma sombra de caixa */
@@ -131,7 +138,8 @@ div input:focus,
 
 #botao-busca:active,
 #botao-busca-equipes:active,
-#botao-busca-pistas:active {
+#botao-busca-pistas:active,
+#botao-busca-glossario:active {
   transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
 }
 
@@ -147,6 +155,7 @@ main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 1.5rem;
+  align-content: start; /* Impede que os cards se estiquem verticalmente */
 }
 
 /* Estilo específico para a grade de pistas */
@@ -302,7 +311,8 @@ article p strong {
 
   div input,
   #busca-equipes,
-  #busca-pistas {
+  #busca-pistas,
+  #busca-glossario {
     width: 70vw; /* Largura baseada na largura da viewport */
   }
 
@@ -345,9 +355,11 @@ article p strong {
   div input,
   #busca-equipes,
   #busca-pistas,
+  #busca-glossario,
   div input::placeholder,
   #busca-equipes::placeholder,
-  #busca-pistas::placeholder {
+  #busca-pistas::placeholder,
+  #busca-glossario::placeholder {
     font-size: 1rem; /* Reduz o tamanho da fonte */
   }
 
@@ -385,6 +397,45 @@ article p strong {
     font-size: 0.85rem;
   }
 }
+
+/* --- ESTILOS DO GLOSSÁRIO --- */
+.glossario-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+  align-content: start; /* Impede que os cards se estiquem verticalmente */
+}
+
+.card-glossario {
+  background-color: #1f2029;
+  border: 1px solid #313233;
+  border-left: 4px solid var(--f1-red);
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-glossario:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+.card-glossario h3 {
+  color: var(--f1-white);
+  margin: 0;
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
+.card-glossario p {
+  margin: 0;
+  line-height: 1.6;
+  color: var(--f1-light-gray);
+}
+/* --- FIM DOS ESTILOS DO GLOSSÁRIO --- */
 
 /* --- ESTILOS DO MODAL --- */
 .modal {
@@ -592,6 +643,7 @@ article p strong {
   padding: 6rem 1rem 2rem; /* Adiciona mais preenchimento no topo */
   max-width: 1400px;
   margin: 0 auto;
+  align-content: start; /* Impede que os cards se estiquem verticalmente */
 }
 
 .team-card,
@@ -722,10 +774,15 @@ a.team-card {
 }
 
 @media (max-width: 900px) {
+  /* Ajusta a grade para 2 colunas em tablets, em vez de 1 */
   .team-grid-container {
-    grid-template-columns: 1fr; /* Uma coluna em telas menores */
+    grid-template-columns: repeat(2, 1fr);
     gap: 5rem 1rem;
     padding-top: 4rem;
+  }
+  .team-card-drivers {
+    flex-direction: row; /* Garante que os pilotos fiquem lado a lado */
+    align-items: flex-start;
   }
 
   .team-card-car-image-container h3 {
@@ -734,6 +791,12 @@ a.team-card {
 }
 
 /* --- FIM DOS ESTILOS DA PÁGINA DE EQUIPES --- */
+@media (max-width: 480px) {
+  /* Em telas muito pequenas, volta para uma coluna para não quebrar o layout */
+  .team-grid-container {
+    grid-template-columns: 1fr;
+  }
+}
 
 /* --- ESTILOS DA PÁGINA DE PISTAS --- */
 .pista-card {

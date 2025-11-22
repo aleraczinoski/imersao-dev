@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br" style="height: 100%">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -92,7 +92,7 @@
     style="
       display: flex;
       flex-direction: column;
-      min-height: 100%;
+      min-height: 100vh;
       background-image: linear-gradient(
           to bottom,
           rgba(21, 21, 30, 0.5),
@@ -111,14 +111,28 @@
     <main class="home-main">
       <h2>Explore Tudo Sobre a Temporada 2025 da Fórmula 1</h2>
       <p>
-        Descubra informações completas sobre pilotos, equipes e pistas que farão
-        parte da temporada de 2025. Use os botões abaixo para navegar entre os
-        conteúdos.
+        Descubra informações completas sobre os pilotos, equipes e pistas que
+        farão parte da temporada de 2025. Use os botões abaixo para navegar
+        entre os conteúdos.
       </p>
       <div class="home-buttons">
         <a href="pilotos.html" id="botao-busca">Ver Pilotos</a>
         <a href="equipes.html" id="botao-busca">Ver Equipes</a>
         <a href="pistas.html" id="botao-busca">Ver Pistas</a>
+      </div>
+
+      <div
+        class="glossary-cta"
+        style="
+          margin-top: 3rem;
+          animation: slideUp 0.8s ease-out 0.6s forwards;
+          opacity: 0;
+        "
+      >
+        <p style="font-size: 1.1rem; color: var(--f1-light-gray)">
+          Não sabe o significado de algum termo da F1?
+        </p>
+        <a href="glossario.html" id="botao-busca">Pesquisar no Glossário</a>
       </div>
     </main>
 

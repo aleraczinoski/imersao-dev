@@ -1,0 +1,430 @@
+[
+  {
+    "termo": "DRS (Drag Reduction System)",
+    "descricao": "Asa traseira móvel que, quando aberta em zonas designadas da pista, reduz o arrasto aerodinâmico do carro, aumentando a velocidade máxima e facilitando ultrapassagens."
+  },
+  {
+    "termo": "Paddock",
+    "descricao": "Área restrita localizada atrás dos boxes, onde as equipes instalam seus motorhomes e áreas de hospitalidade. É o centro administrativo e social do evento, frequentado por pilotos, equipes, mídia e convidados VIP."
+  },
+  {
+    "termo": "Pole Position",
+    "descricao": "A primeira posição no grid de largada, concedida ao piloto que registra o tempo mais rápido na sessão de qualificação. É a posição mais vantajosa para o início da corrida."
+  },
+  {
+    "termo": "Understeer (Subesterço)",
+    "descricao": "Fenômeno que ocorre quando o carro vira menos do que o piloto comanda no volante, fazendo com que a frente do carro tenda a seguir reto ou 'escorregar' para fora da curva. A sensação para o piloto é de que a frente 'não obedece'."
+  },
+  {
+    "termo": "Oversteer (Sobresterço)",
+    "descricao": "Oposto do understeer, ocorre quando a traseira do carro perde aderência e desliza, fazendo com que o carro gire mais para dentro da curva do que o piloto comandou. Em casos extremos, pode levar a um pião (rodada)."
+  },
+  {
+    "termo": "Pit Stop",
+    "descricao": "Parada nos boxes durante a corrida para realizar a troca de pneus, reparos, ou ajustes aerodinâmicos. A estratégia e a execução dos pit stops são cruciais para o resultado de uma corrida."
+  },
+  {
+    "termo": "Grid",
+    "descricao": "A formação de largada dos carros antes do início da corrida, organizada em filas de acordo com os tempos obtidos na qualificação. O piloto na pole position ocupa o primeiro lugar no grid."
+  },
+  {
+    "termo": "Downforce (Força Descendente)",
+    "descricao": "Força aerodinâmica que empurra o carro contra o asfalto, aumentando a aderência dos pneus e permitindo que o carro faça curvas em velocidades muito mais altas. É o segredo para a performance de um F1."
+  },
+  {
+    "termo": "Compostos de Pneus",
+    "descricao": "Os diferentes tipos de pneus disponíveis (Slick para pista seca, Intermediário para pista úmida e Chuva para pista molhada). Os pneus Slick são divididos em compostos de macio a duro, oferecendo diferentes níveis de aderência e durabilidade."
+  },
+  {
+    "termo": "Safety Car (Carro de Segurança)",
+    "descricao": "Veículo que entra na pista para neutralizar a corrida em caso de acidente ou condições perigosas. Os carros de F1 devem segui-lo em velocidade reduzida e sem ultrapassagens, agrupando o pelotão."
+  },
+  {
+    "termo": "Telemetria",
+    "descricao": "Sistema que transmite em tempo real uma enorme quantidade de dados do carro (como velocidade, temperatura dos pneus, uso do motor) para os engenheiros na garagem, permitindo análises e ajustes de estratégia."
+  },
+  {
+    "termo": "Graining e Blistering",
+    "descricao": "Dois tipos de degradação de pneus. Graining (granulação) ocorre quando tiras de borracha se soltam e grudam de volta no pneu, reduzindo a aderência. Blistering (bolhas) é o superaquecimento que cria bolhas na borracha, também afetando a performance."
+  },
+  {
+    "termo": "Apex (Ápice da Curva)",
+    "descricao": "O ponto central e mais interno de uma curva. Atingir o ápice corretamente é fundamental para otimizar a trajetória e maximizar a velocidade de saída da curva."
+  },
+  {
+    "termo": "Chicane",
+    "descricao": "Uma sequência de curvas apertadas em direções opostas (esquerda-direita ou direita-esquerda), inserida em uma reta para reduzir a velocidade dos carros, geralmente por motivos de segurança."
+  },
+  {
+    "termo": "Porpoising",
+    "descricao": "Fenômeno aerodinâmico onde o carro 'quica' ou salta em altas velocidades nas retas. É causado por uma variação no fluxo de ar sob o assoalho, que gera e perde downforce rapidamente."
+  },
+  {
+    "termo": "Parc Fermé (Parque Fechado)",
+    "descricao": "Uma área segura onde os carros são mantidos após a qualificação e a corrida. As equipes são proibidas de fazer alterações significativas nos carros enquanto estão sob as condições de Parque Fechado, garantindo a legalidade dos ajustes."
+  },
+  {
+    "termo": "Slipstream (Vácuo)",
+    "descricao": "A área de baixa resistência do ar criada atrás de um carro em movimento. Um piloto pode 'pegar o vácuo' de um carro à frente para ganhar velocidade extra e facilitar uma ultrapassagem."
+  },
+  {
+    "termo": "Diffuser (Difusor)",
+    "descricao": "Componente aerodinâmico na parte traseira do carro que acelera o fluxo de ar sob o assoalho, criando baixa pressão e aumentando significativamente o Downforce."
+  },
+  {
+    "termo": "ERS (Energy Recovery System)",
+    "descricao": "Sistema híbrido de recuperação de energia que coleta energia cinética (frenagem) e térmica (turbo) para fornecer um aumento temporário de potência ao piloto (boost)."
+  },
+  {
+    "termo": "Race Engineer (Engenheiro de Pista)",
+    "descricao": "Membro da equipe responsável pela comunicação direta com o piloto durante a corrida, gerenciando a estratégia, o ajuste do carro e informando sobre as condições da pista e tráfego."
+  },
+  {
+    "termo": "Dirty Air (Ar Sujo)",
+    "descricao": "Ar turbulento e de alta velocidade deixado por um carro da frente, que reduz a eficiência aerodinâmica e o Downforce do carro que segue, dificultando a ultrapassagem."
+  },
+  {
+    "termo": "Flat Spot",
+    "descricao": "Dano ou desgaste severo em uma seção específica do pneu, geralmente causado por uma forte travagem que bloqueia a roda. Isso leva a vibrações e, frequentemente, exige a troca imediata do pneu."
+  },
+  {
+    "termo": "Installation Lap (Volta de Instalação)",
+    "descricao": "Volta lenta feita pelo piloto no início de uma sessão para verificar o funcionamento do carro e testar as condições iniciais da pista e dos pneus."
+  },
+  {
+    "termo": "Black Flag (Bandeira Preta)",
+    "descricao": "Sinalização mais grave, indica que o piloto está desqualificado da sessão ou corrida e deve retornar imediatamente aos boxes para abandonar a prova."
+  },
+  {
+    "termo": "Power Unit (Unidade de Potência)",
+    "descricao": "Termo moderno para o motor da F1, que é um sistema complexo composto por seis elementos, incluindo o motor V6 turbo e os componentes do ERS."
+  },
+  {
+    "termo": "Stewards (Comissários)",
+    "descricao": "Grupo de oficiais da FIA presentes em cada evento que julga incidentes durante as sessões e aplica penalidades aos pilotos ou equipes de acordo com o regulamento."
+  },
+  {
+    "termo": "Lift and Coast (Tirar o Pé e Deixar Rolar)",
+    "descricao": "Técnica de economia de combustível onde o piloto tira o pé do acelerador antes do ponto de frenagem, permitindo que o carro 'deslize' por inércia antes de frear."
+  },
+  {
+    "termo": "Kerb (Zebra)",
+    "descricao": "Estrutura elevada, geralmente pintada em cores vibrantes, localizada nas bordas da pista para delimitar os limites de traçado e ajudar os pilotos na entrada e saída das curvas."
+  },
+  {
+    "termo": "Brake Bias (Equilíbrio de Travagem)",
+    "descricao": "Ajuste eletrônico que determina a distribuição da força de frenagem entre os eixos dianteiro e traseiro do carro, crucial para o comportamento nas curvas e ajustável pelo piloto durante a volta."
+  },
+  {
+    "termo": "Undercut",
+    "descricao": "Estratégia de Pit Stop onde um piloto para mais cedo que seu concorrente direto, usando a velocidade superior dos pneus novos para ganhar a posição antes que o rival faça sua parada."
+  },
+  {
+    "termo": "Overcut",
+    "descricao": "Estratégia de Pit Stop menos comum, onde o piloto permanece na pista por mais tempo que seu rival, esperando que os pneus do rival percam desempenho para ganhar tempo de volta e ultrapassá-lo após sua parada tardia."
+  },
+  {
+    "termo": "Formation Lap (Volta de Formação)",
+    "descricao": "Volta realizada antes da largada da corrida, onde os carros seguem o Pole Position para aquecer os pneus e freios antes de posicionarem-se no Grid."
+  },
+  {
+    "termo": "Superlicença",
+    "descricao": "Habilitação obrigatória emitida pela FIA que permite ao piloto competir na Fórmula 1, obtida através de um sistema de pontos baseados em desempenho em categorias juniores."
+  },
+  {
+    "termo": "VSC (Virtual Safety Car)",
+    "descricao": "Sistema que impõe um limite de tempo (delta) que os pilotos devem seguir durante a neutralização da corrida, mantendo as distâncias relativas entre os carros, geralmente em caso de incidente menor."
+  },
+  {
+    "termo": "Budget Cap (Teto Orçamentário)",
+    "descricao": "Limite financeiro anual imposto pela FIA para restringir os gastos das equipes de F1 em áreas específicas de desenvolvimento e operação, visando maior paridade e sustentabilidade."
+  },
+  {
+    "termo": "Rake (Ângulo de Ataque)",
+    "descricao": "A inclinação longitudinal de um carro de F1, onde a traseira é mantida mais alta que a dianteira, usada para otimizar o fluxo de ar sob o assoalho e aumentar o downforce."
+  },
+  {
+    "termo": "Wet Race",
+    "descricao": "Condição de corrida declarada quando a pista está molhada ou chuvosa, exigindo o uso de pneus intermediários ou de chuva extrema, e que pode começar atrás do Safety Car."
+  },
+  {
+    "termo": "Time Delta",
+    "descricao": "A diferença de tempo entre dois carros em um ponto específico da pista ou a diferença entre o tempo de volta atual e o tempo de referência desejado (por exemplo, durante um VSC)."
+  },
+  {
+    "termo": "Toe",
+    "descricao": "Medida do alinhamento das rodas, que descreve se as bordas dianteiras das rodas apontam ligeiramente para dentro (toe-in) ou para fora (toe-out) do carro, afetando a estabilidade e o desgaste dos pneus."
+  },
+  {
+    "termo": "Camber (Câmber)",
+    "descricao": "O ângulo vertical de inclinação das rodas quando vistas de frente. O camber negativo, mais comum, significa que o topo do pneu se inclina para dentro do chassi."
+  },
+  {
+    "termo": "Sidepods",
+    "descricao": "Estruturas laterais do carro que abrigam os radiadores e outros sistemas de resfriamento. Seu design é crucial para direcionar o fluxo de ar para a traseira e o difusor."
+  },
+  {
+    "termo": "Drive-Through Penalty",
+    "descricao": "Penalidade que exige que o piloto passe pela pista de pit lane sem parar na box para manutenção, perdendo tempo em relação aos concorrentes."
+  },
+  {
+    "termo": "Stop-and-Go Penalty",
+    "descricao": "Penalidade mais severa que exige que o piloto entre no pit lane, pare na sua vaga por um tempo determinado (geralmente 5 ou 10 segundos) e só então volte à pista."
+  },
+  {
+    "termo": "Out Lap",
+    "descricao": "A primeira volta após o piloto deixar o pit lane, seja para iniciar uma sessão de treino/qualificação ou após um pit stop de corrida."
+  },
+  {
+    "termo": "In Lap",
+    "descricao": "A última volta do piloto antes de entrar no pit lane, seja para retornar aos boxes ou para realizar um pit stop."
+  },
+  {
+    "termo": "Sector (Setor de Pista)",
+    "descricao": "Uma das três divisões oficiais de tempo em que cada volta do circuito é dividida para monitoramento e análise de desempenho."
+  },
+  {
+    "termo": "Run-off Area (Área de Escape)",
+    "descricao": "Área de segurança fora dos limites da pista, geralmente de asfalto ou brita, projetada para desacelerar um carro que sai da curva de forma descontrolada."
+  },
+  {
+    "termo": "Degradation (Degradação)",
+    "descricao": "A perda progressiva de desempenho dos pneus ao longo de uma sequência de voltas, causada pelo desgaste e superaquecimento da borracha."
+  },
+  {
+    "termo": "Cockpit",
+    "descricao": "O compartimento de segurança onde o piloto se senta, projetado para protegê-lo e fornecer acesso aos controles e ao volante."
+  },
+  {
+    "termo": "Strategy Wall",
+    "descricao": "Área no pit lane onde a equipe de estratégia e engenheiros monitoram a corrida em tempo real, usando telas com dados de telemetria e cronometragem."
+  },
+  {
+    "termo": "Green Flag (Bandeira Verde)",
+    "descricao": "Sinaliza que a pista está liberada para corrida e que as condições normais de velocidade podem ser retomadas (após um incidente, ou no início de sessões)."
+  },
+  {
+    "termo": "Yellow Flag (Bandeira Amarela)",
+    "descricao": "Sinaliza um perigo na pista à frente. Exige que os pilotos reduzam a velocidade; ultrapassagens são proibidas na zona de perigo."
+  },
+  {
+    "termo": "Chequered Flag (Bandeira Quadriculada)",
+    "descricao": "Bandeira que indica o fim de uma sessão de treinos, qualificação ou o fim da corrida."
+  },
+  {
+    "termo": "Scrutineering (Verificação Técnica)",
+    "descricao": "Inspeção detalhada de todos os carros pela FIA antes e depois de cada sessão ou corrida para garantir que cumpram todos os regulamentos técnicos."
+  },
+  {
+    "termo": "T-Tray",
+    "descricao": "Uma placa de material composto fixada na parte mais baixa e frontal do assoalho do carro, usada para medir a altura mínima do carro em relação ao solo (placa de desgaste ou 'skid block')."
+  },
+  {
+    "termo": "Squaring the Corner",
+    "descricao": "Uma técnica de pilotagem que envolve frear mais cedo e virar o volante para que a curva seja feita em um formato de 'V' ou quadrado, permitindo uma aceleração mais rápida na saída."
+  },
+  {
+    "termo": "Wet-to-Dry Crossover",
+    "descricao": "O momento crítico em que a pista seca o suficiente para que os pneus intermediários ou de chuva se tornem ineficazes e o piloto precise trocar para pneus slicks."
+  },
+  {
+    "termo": "ICE (Internal Combustion Engine)",
+    "descricao": "O motor a combustão principal da Unidade de Potência. É um V6 turbo de 1,6 litros, que trabalha em conjunto com os componentes híbridos do ERS."
+  },
+  {
+    "termo": "MGU-H (Motor Generator Unit - Heat)",
+    "descricao": "Componente do ERS que converte a energia térmica (calor) do turbo em energia elétrica, podendo também controlar a velocidade do turbo compressor."
+  },
+  {
+    "termo": "MGU-K (Motor Generator Unit - Kinetic)",
+    "descricao": "Componente do ERS conectado ao eixo de transmissão, que recupera energia cinética durante a travagem e a fornece para impulsionar o carro."
+  },
+  {
+    "termo": "Brake Migration",
+    "descricao": "Ajuste eletrônico que modifica automaticamente o equilíbrio de travagem (Brake Bias) ao longo da curva, dependendo da pressão que o piloto exerce no pedal."
+  },
+  {
+    "termo": "Tyre Blanket",
+    "descricao": "Cobertor elétrico usado para aquecer os pneus até temperaturas ideais (geralmente entre 70°C e 100°C) antes de serem montados no carro na pista."
+  },
+  {
+    "termo": "Pit Wall",
+    "descricao": "Parede na reta principal onde se posicionam o chefe de equipe e os estrategistas, monitorando a corrida e comunicando-se com os pilotos e o Race Engineer."
+  },
+  {
+    "termo": "Venturi Tunnels",
+    "descricao": "Canais aerodinâmicos localizados sob o assoalho do carro (parte das regras de 2022 em diante) que geram downforce pelo 'efeito solo'."
+  },
+  {
+    "termo": "Bargeboard",
+    "descricao": "Defletores aerodinâmicos complexos, localizados nas laterais do carro (proibidos ou muito limitados a partir de 2022), usados para gerenciar o fluxo de ar turbulento das rodas dianteiras."
+  },
+  {
+    "termo": "Floor Edge",
+    "descricao": "A borda externa do assoalho do carro, que precisa ser mantida próxima ao solo para 'selar' o fluxo de ar e maximizar a eficiência dos Venturi Tunnels."
+  },
+  {
+    "termo": "Race Control",
+    "descricao": "A sala de comando de uma corrida, operada pela FIA, responsável por monitorar a pista, gerenciar incidentes e tomar decisões procedimentais."
+  },
+  {
+    "termo": "Technical Regulations",
+    "descricao": "O conjunto de regras da FIA que define especificamente o design, a construção e a legalidade técnica dos chassis e motores de F1."
+  },
+  {
+    "termo": "Sporting Regulations",
+    "descricao": "O conjunto de regras que rege a conduta da competição, procedimentos de corrida, formato do fim de semana, sistema de pontos e penalidades aplicadas durante o evento."
+  },
+  {
+    "termo": "Protest",
+    "descricao": "Reclamação formal apresentada por uma equipe à FIA contra um concorrente, geralmente questionando a legalidade do carro ou a conduta durante a corrida."
+  },
+  {
+    "termo": "Reprimand (Repreensão)",
+    "descricao": "Uma penalidade leve aplicada pelos Stewards por infrações menores. Acumular três em uma temporada pode resultar em penalidades mais severas, como perda de posições no grid."
+  },
+  {
+    "termo": "Maximum Race Distance",
+    "descricao": "Regra que limita o tempo total de uma corrida a duas horas (ou três horas se houver bandeiras vermelhas), independentemente do número de voltas concluídas."
+  },
+  {
+    "termo": "Weight Limit",
+    "descricao": "O peso mínimo que o carro e o piloto (juntos, sem combustível) devem atingir para cumprir as regras da FIA."
+  },
+  {
+    "termo": "Push Lap",
+    "descricao": "Uma volta cronometrada em que o piloto está forçando o carro ao limite máximo, tipicamente durante as sessões de classificação."
+  },
+  {
+    "termo": "Marbles",
+    "descricao": "Pequenos pedaços e bolhas de borracha que se soltam dos pneus desgastados e se acumulam fora da linha de corrida ideal, tornando a superfície escorregadia."
+  },
+  {
+    "termo": "Tether",
+    "descricao": "Cabos de segurança reforçados que prendem as rodas ao chassi do carro, exigidos para evitar que as rodas se soltem e se tornem projéteis em caso de acidente."
+  },
+  {
+    "termo": "Halo",
+    "descricao": "Estrutura de proteção obrigatória (desde 2018) construída em titânio sobre o cockpit para proteger a cabeça do piloto contra grandes detritos e colisões."
+  },
+  {
+    "termo": "Setup Sheet",
+    "descricao": "Documento detalhado usado pela equipe para registrar e ajustar todos os parâmetros do carro, como suspensão, asas, câmber, toe e distribuição de peso."
+  },
+  {
+    "termo": "Balance",
+    "descricao": "O comportamento dinâmico geral do carro. Um bom 'balance' significa que o carro não apresenta excesso de subesterço ou sobresterço."
+  },
+  {
+    "termo": "Weave",
+    "descricao": "Manobra perigosa onde um piloto ziguezagueia repetidamente na reta (fora da linha de corrida) para tentar aquecer os pneus ou quebrar o vácuo do carro que o segue. Regra da FIA limita onde isso é permitido."
+  },
+  {
+    "termo": "Scrubbing Tyres",
+    "descricao": "Ato de aquecer ou 'limpar' a superfície de um pneu novo, forçando-o a deslizar levemente na curva, feito geralmente em voltas de aquecimento ou reconhecimento."
+  },
+  {
+    "termo": "Wider Wheelbase",
+    "descricao": "O aumento da distância entre os eixos dianteiro e traseiro do carro, uma característica de design moderna que ajuda na estabilidade aerodinâmica e permite assoalhos maiores."
+  },
+  {
+    "termo": "Trail Braking",
+    "descricao": "Técnica de manter uma leve pressão no pedal de freio enquanto o piloto entra na curva para ajudar a girar o carro e estender o ponto de frenagem."
+  },
+  {
+    "termo": "Ground Effect",
+    "descricao": "Princípio aerodinâmico que gera downforce ao canalizar o ar sob o assoalho do carro, criando uma zona de baixa pressão que 'succiona' o carro para o chão."
+  },
+  {
+    "termo": "Pushrod Suspension",
+    "descricao": "Tipo de suspensão onde a haste empurra o balancim e o amortecedor/mola, ligando a roda ao chassi. Comum na suspensão dianteira."
+  },
+  {
+    "termo": "Rev Limiter",
+    "descricao": "Um sistema eletrônico que impede o motor de exceder um limite máximo predefinido de rotações por minuto (RPM) para evitar danos."
+  },
+  {
+    "termo": "Clean Air",
+    "descricao": "Ar que não foi perturbado pela turbulência (rasto aerodinâmico) de um carro à frente, permitindo que o carro de trás maximize sua performance aerodinâmica."
+  },
+  {
+    "termo": "Force Majeure",
+    "descricao": "Uma condição não planejada ou circunstância irresistível (como clima extremo ou emergência) que pode levar a Race Control a alterar ou encerrar a corrida."
+  },
+  {
+    "termo": "Beam Wing",
+    "descricao": "Uma pequena asa horizontal traseira, montada acima do difusor, projetada para trabalhar em conjunto com a asa principal e melhorar o fluxo de ar."
+  },
+  {
+    "termo": "Strategy Offset",
+    "descricao": "A diferença na idade (desgaste) ou composto dos pneus entre dois carros rivais em um determinado momento, crucial para a estratégia de pit stops."
+  },
+  {
+    "termo": "Track Limits",
+    "descricao": "As bordas externas da pista (geralmente definidas pela linha branca) que os pilotos não devem exceder com as quatro rodas durante a condução em alta velocidade."
+  },
+  {
+    "termo": "Medical Car",
+    "descricao": "Veículo de resposta rápida que segue os carros na volta inicial e permanece pronto na pista para atender a acidentes graves imediatamente."
+  },
+  {
+    "termo": "Tyre Pressure Management",
+    "descricao": "O controle rigoroso da pressão interna dos pneus, que afeta diretamente a aderência, a degradação e o cumprimento dos regulamentos técnicos."
+  },
+  {
+    "termo": "Impact Structure",
+    "descricao": "Componentes específicos do chassi (especialmente o nariz e as estruturas laterais) projetados para deformar e absorver energia em caso de colisão, protegendo o piloto."
+  },
+  {
+    "termo": "Endplate",
+    "descricao": "As placas verticais nas extremidades das asas (dianteira e traseira) que ajudam a controlar o fluxo de ar e a reduzir o arrasto induzido."
+  },
+  {
+    "termo": "Filming Day",
+    "descricao": "Dia de teste limitado em quilometragem e tipo de pneu permitido pelos regulamentos, usado pelas equipes para filmagens promocionais e comerciais."
+  },
+  {
+    "termo": "Shakedown",
+    "descricao": "Uma breve sessão de testes realizada antes da temporada ou após grandes modificações para garantir que todos os sistemas do carro novo ou revisado funcionem corretamente."
+  },
+  {
+    "termo": "Minimum Plenum Temperature",
+    "descricao": "Regulamento técnico que estabelece a temperatura mínima permitida para o ar dentro do coletor de admissão do motor (plenum)."
+  },
+  {
+    "termo": "Stint",
+    "descricao": "O período contínuo de tempo ou número de voltas que um piloto passa na pista entre dois pit stops, ou desde a largada até o primeiro pit stop."
+  },
+  {
+    "termo": "Sporting Passport",
+    "descricao": "Documento da FIA que atesta que o carro de uma equipe e o piloto estão em conformidade com as regras esportivas e técnicas para participar de um evento."
+  },
+  {
+    "termo": "Anti-Stall",
+    "descricao": "Sistema eletrônico obrigatório que impede que o motor do carro morra (se desligue) em baixas velocidades ou após um incidente, permitindo que o piloto retome a corrida."
+  },
+  {
+    "termo": "Spring Rate",
+    "descricao": "A rigidez da mola da suspensão, que determina a rapidez com que a suspensão se comprime sob carga, afetando diretamente o manuseio e a altura do carro."
+  },
+  {
+    "termo": "Safety Car Line",
+    "descricao": "Linhas específicas na pista (geralmente a linha de largada/chegada) que os pilotos devem respeitar ao ultrapassar, especialmente durante períodos de Safety Car, para evitar penalidades."
+  },
+  {
+    "termo": "Blocking",
+    "descricao": "Manobra defensiva onde um piloto muda de linha de forma tardia ou excessiva para impedir uma ultrapassagem, geralmente sujeita a penalidade se considerada perigosa pelos Comissários."
+  },
+  {
+    "termo": "Tyre Window",
+    "descricao": "A faixa de temperatura ideal na qual um composto de pneu deve operar para fornecer o máximo de aderência. Se o pneu sair dessa janela, a performance cai drasticamente."
+  },
+  {
+    "termo": "Fuel Flow Meter",
+    "descricao": "Dispositivo obrigatório usado pela FIA para monitorar e garantir que a taxa de fluxo de combustível que entra no motor esteja dentro dos limites regulamentares permitidos."
+  },
+  {
+    "termo": "Time Penalty",
+    "descricao": "Uma penalidade aplicada adicionando segundos ao tempo total de corrida de um piloto (ex: 5 ou 10 segundos), geralmente imposta por infrações menores que não exigem uma parada nos boxes."
+  }
+]
