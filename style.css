@@ -83,7 +83,7 @@ div input,
   font-family: inherit; /* Herda a família da fonte do elemento pai */
   font-size: 1.5rem; /* Tamanho da fonte */
   transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
-  width: 30rem; /* Largura do input */
+  width: 15rem; /* Largura do input */
   color: var(--f1-light-gray); /* Cor do texto digitado */
   margin-right: 0.5rem; /* Margem à direita */
 }
@@ -285,6 +285,7 @@ article p strong {
   header {
     /* Estilos para telas com largura máxima de 768px */
     flex-direction: column;
+    position: static; /* Remove a posição "sticky" */
     padding: 1rem;
     gap: 0.75rem;
   }
@@ -302,14 +303,7 @@ article p strong {
   div input,
   #busca-equipes,
   #busca-pistas {
-    /* Estilos para o input em telas menores */
-    width: 90vw; /* Largura baseada na largura da viewport */
-    font-size: 1.2rem; /* Reduz o tamanho da fonte */
-  }
-
-  main {
-    /* Estilos para o main em telas menores */
-    padding: 0 1rem; /* Adiciona espaçamento lateral */
+    width: 70vw; /* Largura baseada na largura da viewport */
   }
 
   article {
@@ -328,6 +322,7 @@ article p strong {
   }
 
   .footer {
+    position: static; /* Garante que o rodapé não seja fixo */
     flex-direction: column;
     gap: 0.75rem;
     padding: 1rem 0.5rem;
